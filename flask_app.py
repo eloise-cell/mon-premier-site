@@ -24,7 +24,9 @@ def accueil():
 # ---------------------------------------------------------------
 #  Ajoutez vos nouvelles routes ci-dessous 👇
 # ---------------------------------------------------------------
-
+@app.get("/presentation")
+def presentation():
+    return "Je m'appelle Eloïse et je suis étudiante à l'ICAM."
 
 
 # ---------------------------------------------------------------
