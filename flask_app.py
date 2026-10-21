@@ -37,9 +37,8 @@ def presentation():
         <li>Le code (bientôt !)</li>
     </ul>
     """
-@app.get("/loisirs")
-def loisirs():
-    return "Mes loisirs sont le cinéma, les voyages, la lecture et l'automobile"
+
+<img src="https://www.shutterstock.com/image-vector/be-eb-b-e-abstract-600w-2385258941.jpg" width="100">
 
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
