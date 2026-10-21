@@ -28,6 +28,9 @@ def accueil():
 def presentation():
     return "Je m'appelle Eloïse et je suis étudiante à l'ICAM."
 
+@app.get("/loisirs")
+def presentation():
+    return "Mes loisirs sont le cinéma, les voyages, la lecture et l'automobile"
 
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
