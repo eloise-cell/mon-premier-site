@@ -35,10 +35,10 @@ def presentation():
         <li>Les voyages</li>
         <li>La musique</li>
         <li>Le code (bientôt !)</li>
+        <img src="blob:https://chatgpt.com/f097d768-bd93-4aae-94fc-2ce417952c2c" width="100">
     </ul>
     """
 
-<img src="https://www.shutterstock.com/image-vector/be-eb-b-e-abstract-600w-2385258941.jpg" width="100">
 
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
