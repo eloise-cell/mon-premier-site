@@ -15,11 +15,11 @@
 
 1. Où se trouve physiquement le code qui fabrique votre page : sur votre ordinateur, sur GitHub ou sur PythonAnywhere ?
 
-   > sur mon ordinateur
+   > sur GitHub
 
 2. Pourquoi votre voisin(e) peut-il voir votre site, alors que vous n'avez rien installé sur son ordinateur ?
 
-   > Parce que mon site est hébergé sur un serveur connecté à Internet, et non uniquement sur votre ordinateur.
+   > parce que mon site est sur un serveur connecté à Internet.
 
 ---
 
