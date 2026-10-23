@@ -27,15 +27,15 @@
 
 1. Dans l'URL `https://www.google.com/maps`, quel est le nom de domaine ? Quel est le chemin ?
 
-   > _Ma réponse :_ 
+   > le nom de domaine est "www.google.com" et le chemin est "/maps"
 
 2. Que veut dire le message *Not Found* ? Qui l'a envoyé : votre navigateur ou le serveur ?
 
-   > _Ma réponse :_ 
+   > Not found veut dire introuvable et c'est le serveur qui l'envoie
 
 3. Que se passe-t-il si deux fonctions portent le même nom dans `flask_app.py` ? (Indice : essayez, puis lisez l'Error log.)
 
-   > _Ma réponse :_ 
+   > Cela va signaler une erreur.
 
 ---
 
@@ -43,15 +43,15 @@
 
 1. Quelle est la différence entre ce que le serveur **envoie** et ce que le navigateur **affiche** ?
 
-   > _Ma réponse :_ 
+   > Le serveur envoie du code et le navigateur affiche la page web
 
 2. À quoi servent les balises `<h1>`, `<p>`, `<ul>` et `<li>` ?
 
-   > _Ma réponse :_ 
+   > <h1> : définit le titre principal de la page, <p> : définit un paragraphe de texte, <ul> : crée une liste à puces, <li> : définit un élément de la liste.
 
 3. Pourquoi l'image s'affiche-t-elle alors qu'elle n'est pas sur votre serveur ?
 
-   > _Ma réponse :_ 
+   > Parce que on met son URL
 
 ---
 
