@@ -35,7 +35,7 @@ def presentation():
         <li>Les voyages</li>
         <li>La musique</li>
         <li>Le code (bientôt !)</li>
-        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.shutterstock.com%2Ffr%2Fsearch%2Flogo-eb&ved=0CBcQjRxqFwoTCIiehZmiy5cDFQAAAAAdAAAAABA4&opi=89978449" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100">
     </ul>
     """
 
