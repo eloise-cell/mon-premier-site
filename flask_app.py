@@ -37,6 +37,10 @@ def bonjour(prenom):
 
 @app.get("/calcul")
 def calcul():
+    return render_template("calcul.html")
+
+@app.get("/parametre")
+def parametre():
     a = int(request.args.get("a", 0))
     b = int(request.args.get("b", 0))
     return f"{a} + {b} = {a + b}"
