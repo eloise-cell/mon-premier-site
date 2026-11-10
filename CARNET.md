@@ -139,15 +139,15 @@
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :_ 
+   > Une erreur 4xx vient généralement d'un problème dans la demande de l'utilisateur (page introuvable, accès interdit). Une erreur 5xx vient d'un problème sur le serveur.
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ 
+   > Le serveur indique au navigateur une nouvelle adresse où aller. C'est ensuite le navigateur qui fait une deuxième requête vers cette adresse.
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ 
+   > Quand on tape une ancienne adresse d'un site, celui-ci peut nous rediriger automatiquement vers sa nouvelle adresse.
 
 ---
 
@@ -155,19 +155,19 @@
 
 1. Citez trois informations que le serveur connaît sur vous, sans que vous ayez rien rempli.
 
-   > _Ma réponse :_ 
+   > Mon adresse IP, le type de navigateur que j'utilise et mon système d'exploitation.
 
 2. À quoi peut servir l'en-tête `Accept-Language` pour un site comme Wikipédia ?
 
-   > _Ma réponse :_ 
+   > Il permet de connaître la langue préférée du visiteur pour lui afficher directement Wikipédia dans la bonne langue.
 
 3. Dans l'Access log, retrouvez une requête qui a reçu un code `404`. Quelle page était demandée ?
 
-   > _Ma réponse :_ 
+   > Une page ou un fichier qui n'existe pas sur le serveur était demandé.
 
 4. Après cet exercice, que pensez-vous de la notion de « navigation anonyme » ?
 
-   > _Ma réponse :_ 
+   > Je pense qu'on n'est jamais totalement anonyme sur Internet, car les sites peuvent récupérer plusieurs informations sur nous, même sans qu'on les donne directement.
 
 ---
 
