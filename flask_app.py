@@ -80,6 +80,12 @@ def secret():
 def page_introuvable(erreur):
     return render_template("404.html"), 404
 
+# Une page d'erreur 403 personnalisée
+@app.errorhandler(403)
+def page_introuvable(erreur):
+    return render_template("403.html"), 403
+
+
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
 #  sur votre propre ordinateur (python flask_app.py)
